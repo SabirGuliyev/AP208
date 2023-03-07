@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\bin\Debug\net6.0\ArrayBigO.exe
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\bin\Debug\net6.0\ArrayBigO.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\bin\Debug\net6.0\ArrayBigO.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\bin\Debug\net6.0\ArrayBigO.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\bin\Debug\net6.0\ArrayBigO.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\obj\Debug\net6.0\ArrayBigO.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\obj\Debug\net6.0\ArrayBigO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\obj\Debug\net6.0\ArrayBigO.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\obj\Debug\net6.0\ArrayBigO.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\obj\Debug\net6.0\ArrayBigO.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\obj\Debug\net6.0\ArrayBigO.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\obj\Debug\net6.0\refint\ArrayBigO.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\obj\Debug\net6.0\ArrayBigO.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\obj\Debug\net6.0\ArrayBigO.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayBigO\ArrayBigO\obj\Debug\net6.0\ref\ArrayBigO.dll
