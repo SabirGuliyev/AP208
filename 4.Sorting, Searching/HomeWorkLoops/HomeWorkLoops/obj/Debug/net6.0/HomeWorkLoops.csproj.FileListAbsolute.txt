@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\bin\Debug\net6.0\HomeWorkLoops.exe
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\bin\Debug\net6.0\HomeWorkLoops.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\bin\Debug\net6.0\HomeWorkLoops.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\bin\Debug\net6.0\HomeWorkLoops.dll
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\bin\Debug\net6.0\HomeWorkLoops.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\obj\Debug\net6.0\HomeWorkLoops.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\obj\Debug\net6.0\HomeWorkLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\obj\Debug\net6.0\HomeWorkLoops.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\obj\Debug\net6.0\HomeWorkLoops.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\obj\Debug\net6.0\HomeWorkLoops.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\obj\Debug\net6.0\HomeWorkLoops.dll
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\obj\Debug\net6.0\refint\HomeWorkLoops.dll
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\obj\Debug\net6.0\HomeWorkLoops.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\obj\Debug\net6.0\HomeWorkLoops.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\HomeWorkLoops\HomeWorkLoops\obj\Debug\net6.0\ref\HomeWorkLoops.dll
